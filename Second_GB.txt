@@ -1,3 +1,6 @@
 print ("Nochmal Welcome")
 print ("Nochmal Welcome2")
 print ("Schönen Feierabend")
+a = 23
+b = 24
+a + b
